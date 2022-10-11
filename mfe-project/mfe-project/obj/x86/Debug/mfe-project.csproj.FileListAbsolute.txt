@@ -7,3 +7,16 @@ C:\Users\LAB1\Desktop\mfe-project\mfe-project\obj\x86\Debug\GenerateResource.wri
 C:\Users\LAB1\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.exe
 C:\Users\LAB1\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.pdb
 C:\Users\LAB1\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe_project.menu.resources
+C:\Users\maces\Desktop\mfe-project\mfe-project\bin\Debug\mfe-project.exe
+C:\Users\maces\Desktop\mfe-project\mfe-project\bin\Debug\mfe-project.pdb
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.csprojAssemblyReference.cache
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe_project.menu.resources
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe_project.Properties.Resources.resources
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.csproj.GenerateResource.cache
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.csproj.CoreCompileInputs.cache
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.exe
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.pdb
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe_project.ui.uiTest001.resources
+C:\Users\maces\Desktop\mfe-project\mfe-project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maces\Desktop\mfe-project\mfe-project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.csproj.CopyComplete
