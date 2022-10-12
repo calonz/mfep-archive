@@ -67,6 +67,8 @@ namespace mfe_project
         private void button1_Click(object sender, EventArgs e)
         {
             create_msl_panel.Visible = true;
+            button2.Visible = false;
+            button3.Visible = false;
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -77,6 +79,12 @@ namespace mfe_project
         private void button9_Click(object sender, EventArgs e)
         {
             uuidBox.Text = Guid.NewGuid().ToString();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            
+
         }
     }
 }

@@ -20,3 +20,16 @@ C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe_project.ui.uiTe
 C:\Users\maces\Desktop\mfe-project\mfe-project\bin\Debug\Newtonsoft.Json.dll
 C:\Users\maces\Desktop\mfe-project\mfe-project\bin\Debug\Newtonsoft.Json.xml
 C:\Users\maces\Desktop\mfe-project\mfe-project\obj\x86\Debug\mfe-project.csproj.CopyComplete
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\mfe-project.exe
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\mfe-project.pdb
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\bin\Debug\mfe-project.exe
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\bin\Debug\mfe-project.pdb
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\mfe_project.gui.About.resources
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\mfe_project.menu.resources
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\mfe_project.Properties.Resources.resources
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\mfe_project.ui.uiTest001.resources
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LAB1\Desktop\mfep-gen-main\mfe-project\mfe-project\obj\x86\Debug\GenerateResource.write.1.tlog
